@@ -1,0 +1,5 @@
+name,midterm1,midterm2,final,quiz1,quiz2,quiz3,quiz4
+Harry Potter,67,87,45,3,6,8,6
+Ronald Weasley,34,65,56,2,3,1,7
+Hermione Granger,100,100,100,10,10,10,10
+Neville Longbottom,32,12,45,2,3,8,5
